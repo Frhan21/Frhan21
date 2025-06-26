@@ -2,7 +2,23 @@
 <h3 align="center">Funny and Calm Fullstack Developer</h3>
 
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=frhan21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/frhan21?label=Follow&style=social" alt="GitHub Followers" />
+
+  <!-- GitHub User Stars (total stars across all repos) -->
+  <img src="https://img.shields.io/github/stars/frhan21?label=Total%20Stars&style=flat-square" alt="Total Stars" />
+
+  <!-- GitHub User Public Repos -->
+  <img src="https://img.shields.io/badge/Public%20Repos-36-blue?style=flat-square" alt="Public Repos" />
+
+  <!-- GitHub Gists -->
+  <img src="https://img.shields.io/badge/Gists-Available-green?style=flat-square" alt="Gists" />
+
+  <!-- Join Date Badge (static, you can manually write it) -->
+  <img src="https://img.shields.io/badge/Joined-May_2022-blue?style=flat-square" alt="Join Date" />
 </p>
 
 ---
@@ -40,8 +56,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=frhan21&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhan21&layout=compact&theme=default" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=frhan21&show_icons=true&theme=default" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhan21&layout=compact&theme=default" alt="Top Languages" width="400" height="200" />
 </div>
 
 ---
