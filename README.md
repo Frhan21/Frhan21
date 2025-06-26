@@ -48,9 +48,9 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=frhan21&margin-w=15&margin-h=15&no-bg=true&theme=flat" alt="frhan21 trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frhan21&theme=flat&column=7&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
