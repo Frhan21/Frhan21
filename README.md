@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frhan21&show_icons=true&locale=en" alt="frhan21 stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frhan21&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=frhan21&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhan21&layout=compact&theme=default" alt="Top Languages" width="400"/>
 </div>
 
 ---
