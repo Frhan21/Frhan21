@@ -25,7 +25,7 @@
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on projects using **Laravel, Next.js, Spring Boot**
+- 🔭 I’m currently working on projects using **Laravel, Next.js, NodeJS**
 - 🌱 Continuously learning about new tech and refining my stack
 - 💬 Ask me about: **HTML, CSS, JavaScript, React.js**
 - 👨‍💻 Check out my portfolio: [nerd-dev.vercel.app](https://nerd-dev.vercel.app)
