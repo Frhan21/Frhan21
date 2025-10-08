@@ -53,23 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=frhan21&show_icons=true&theme=default" alt="GitHub Stats" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhan21&layout=compact&theme=default" alt="Top Languages" width="400" height="200" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frhan21&theme=flat&column=7&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -80,18 +63,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
-
-## 💼 Projects & Portfolio
-
-🔗 Visit [nerd-dev.vercel.app](https://nerd-dev.vercel.app) for all my deployed work.
-
-Want me to showcase 2–3 specific GitHub projects here? Let me know!
-
----
-
-## 📄 License
-
-This profile README is open to reuse and remix. If you're using it for inspiration, feel free to credit me 🌟
 
